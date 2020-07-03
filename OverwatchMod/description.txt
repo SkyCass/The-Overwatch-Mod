@@ -1,0 +1,19 @@
+This mod adds weapons from Overwatch to Terraria! 
+(Formerly the Pulse Pistol Mod)
+
+This mod adds:
+2 New weapons
+-Mcree's Peacekeeper Revolver, a hardmode gun crafted with Hallowed Bars
+-Tracer's Pulse Pistol, a pre-hardmode gun rivaling the minishark.
+
+
+(A simple recipe is added for converting Tungsten to Silver as Tracer's gun requires silver bullets.)
+
+TO DO:
+Add Sounds
+Improve sprites
+Fix muzzle/handle alignment
+Add More Weapons (especially for other classes)
+Add Accessories (such as Tracer's chronal accelerator)
+Improve balance once more weapons are added
+Possibly add minibosses such as Roadhog? Not quite sure.

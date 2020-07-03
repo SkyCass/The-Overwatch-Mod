@@ -1,0 +1,3 @@
+displayName = The Overwatch Mod (WIP)
+author = SkyCass
+version = 0.1
